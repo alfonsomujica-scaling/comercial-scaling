@@ -2,19 +2,23 @@
 
 Página que usan los coaches de Scaling, casi siempre desde el celular, para
 saber qué mandar a cada lead y cómo llevar cada reunión. Se publica con GitHub
-Pages en <https://sofiaochagavia-hub.github.io/comercial-scaling/>.
+Pages en <https://alfonsomujica-scaling.github.io/comercial-scaling/>.
 
 **Este repo es público.** No subas nada confidencial: precios internos, datos
 de contactos o notas de clientes. Los criterios completos del equipo están en
-`CRITERIOS-SCALING.md` del repo privado `sofiaochagavia-hub/scaling-crm`;
+`CRITERIOS-SCALING.md` del repo privado `alfonsomujica-scaling/scaling-crm`;
 si tienes acceso, léelo.
 
 ## Quién trabaja aquí
 
-Sofía Ochagavía (Growth Manager) es la dueña del material. Otras personas del
-equipo también lo ajustan, sin necesitar aprobación de Sofía: los cambios se
-publican directo. Nadie es desarrollador: explica en castellano qué vas a
-hacer y por qué. **No borres nada sin permiso explícito de la persona con la
+Desde noviembre 2026 el dueño del material es **Alfonso Mujica**
+(`alfonsomujica-scaling` en GitHub). Antes lo editaba Sofía Ochagavía.
+
+- Alfonso publica directo a `main`.
+- Las demás personas del equipo crean una rama y abren un pull request; Alfonso
+  aprieta Merge para publicarlo.
+
+Nadie es desarrollador: explica en castellano qué vas a hacer y por qué. **No borres nada sin permiso explícito de la persona con la
 que trabajas**, salvo lo que tú mismo creaste en la misma sesión.
 
 ## Qué hay adentro
@@ -39,8 +43,10 @@ estrategia-comercial/, nuggets-de-venta/   versiones antiguas sueltas, no enlaza
    `python _fuente/build.py`. Si no hay Python en el computador, haz el mismo
    cambio en `_fuente/` y en `index.html`, para que no se desincronicen.
 3. Revisa con `git diff` que solo cambió lo que querías.
-4. Commit con un mensaje que entienda alguien que no programa, y `git push`.
-   En 1 o 2 minutos se ve en la página.
+4. Commit con un mensaje que entienda alguien que no programa. Si eres
+   Alfonso, `git push` a `main`; si no, crea una rama, súbela y abre un pull
+   request con `gh pr create` y avísale a Alfonso para que apriete Merge.
+   Cuando el cambio llega a `main`, en 1 o 2 minutos se ve en la página.
 
 Si las dos personas están editando el mismo día, avísense para no pisarse.
 
