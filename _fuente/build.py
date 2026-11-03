@@ -208,7 +208,7 @@ MENU = """<div class="wrap">
 </nav>
 <div class="pie">
 Material interno de Scaling · No compartir fuera del equipo<br/>
-¿Falta algo o hay que corregir un contenido? Avísale a Sofía.
+¿Falta algo o hay que corregir un contenido? Avísale a Alfonso.
 </div>
 </div>"""
 

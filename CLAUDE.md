@@ -98,5 +98,5 @@ el CRM para que lo tome.
 - El acuerdo de trabajo va solo si la propuesta se ajustó; si la aceptan tal
   cual por mail, va directo el mail de bienvenida. Si dijo que sí solo de
   palabra, va el "mail si dice que sí" pidiendo confirmarlo por escrito.
-- Metodologías: Sandler (ya desarrollado aquí) y StoryBrand (Sofía va a pasar
-  el material; no lo apliques de conocimiento general).
+- Metodologías: Sandler (ya desarrollado aquí) y StoryBrand (llegará como
+  material aparte; no lo apliques de conocimiento general).
